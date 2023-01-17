@@ -6,7 +6,6 @@ import java.util.Scanner;
  */
 public class ReverseWord {
 
-    //MAIN METHOD
     public static void main(String[] args) {
 //        char[] myArray = new char[7];
 //        myArray[0] = 's';
