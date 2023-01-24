@@ -8,7 +8,8 @@ public class StudentTues23 {
 
     private String studentId;
     private String studentName;
-
+    private String address;
+    
     public StudentTues23() {
         studentId = "";
         studentName = "";
@@ -34,10 +35,13 @@ public class StudentTues23 {
     public void setStudentName(String studentName) {
         this.studentName = studentName;
     }
-    
-    
-        
-    
-    
 
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
+ 
 }
