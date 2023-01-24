@@ -7,7 +7,7 @@ package studenttues23;
 
 
 /**
- *dylan
+ *
  * @author Dylan
  */
 public class StudentList {
